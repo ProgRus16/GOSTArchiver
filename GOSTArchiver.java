@@ -8,7 +8,7 @@ import java.nio.charset.StandardCharsets;
 
 public class GOSTArchiver {
 
-    // =============== СТРИБОГ-512 ===============
+    // =============== СТРИБОГ ===============
     private static final byte[] S = {
             (byte)0xFC, (byte)0xEE, (byte)0xDD, 0x11, (byte)0xCF, 0x6E, 0x31, 0x16,
             (byte)0xFB, (byte)0xC4, (byte)0xFA, (byte)0xDA, 0x23, (byte)0xC5, 0x04, 0x4D,
